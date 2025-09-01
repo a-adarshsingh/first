@@ -1,4 +1,4 @@
 # first
 This is my first Git Repository.
 <br>
-Author- Aadarsh Singh
+<b>Author- Aadarsh Singh</b>
